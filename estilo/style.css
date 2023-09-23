@@ -83,21 +83,18 @@ section.imagem > p {
 
 section#img01 {
     background-image: url(../imagens/img1.jpeg);
-    width: auto;
-    height: auto;
+
 
 }
 
 section#img02 {
     background-image: url(../imagens/img2.jpeg);
-    width: auto;
-    height: auto;   
+   
 }
 
 section#img03 {
     background-image: url(../imagens/img3.jpeg);
-    width: auto;
-    height: auto;   
+  
 }
 
 footer {
